@@ -1,6 +1,6 @@
 ---
 name: App-ZofCMS-Plugin-HTMLFactory
-version: 0.0101
+version: 0.0102
 author:
   - "Zoffix <'zoffix@cpan.org'>"
 abstract: 'notes for modules in App::ZofCMS::Plugin::HTMLFactory:: namespace'
@@ -12,8 +12,8 @@ build_requires:
 provides:
   App::ZofCMS::Plugin::HTMLFactory:
     file: lib/App/ZofCMS/Plugin/HTMLFactory.pm
-    version: 0.0101
-generated_by: Module::Build version 0.2808
+    version: 0.0102
+generated_by: Module::Build version 0.33
 meta-spec:
-  url: http://module-build.sourceforge.net/META-spec-v1.2.html
-  version: 1.2
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4

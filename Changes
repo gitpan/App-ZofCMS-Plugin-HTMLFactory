@@ -1,5 +1,8 @@
 Revision history for App-ZofCMS-Plugin-HTMLFactory
 
+0.0102  July 5, 2009
+        Added "examples" to keep CPANTS happy
+
 0.0101  November 16, 2008
         First version, released on an unsuspecting world.
 
